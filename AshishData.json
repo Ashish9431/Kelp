@@ -1,0 +1,38 @@
+[
+  {
+    "code": "ACC002",
+    "name": "FVTPL",
+    "balance": 8000,
+    "id": 1
+  },
+  {
+    "code": "ACC001",
+    "name": "KELP",
+    "balance": 0,
+    "id": 2
+  },
+  {
+    "code": "ACC003",
+    "name": "Ashish",
+    "balance": 0,
+    "id": 3
+  },
+  {
+    "code": "ACC005",
+    "name": "DAN",
+    "balance": 0,
+    "id": 4
+  },
+  {
+    "code": "ACC005",
+    "name": "DAD",
+    "balance": 0,
+    "id": 5
+  },
+  {
+    "code": "ACC444",
+    "name": "HEN",
+    "balance": 0,
+    "id": 6
+  }
+]
